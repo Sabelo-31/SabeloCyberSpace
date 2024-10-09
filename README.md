@@ -1,5 +1,5 @@
-<h1>Hi, I'm Sabelo! <br/>
-  < href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,</h1>
+<h1>Hi, I'm Sabelo <br/></h1 >
+Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
