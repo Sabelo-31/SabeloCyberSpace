@@ -4,6 +4,7 @@ Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Basic Home Lab](https://github.com/Sabelo-31/Active-Directory-Home-Lab)
+  - [Windows Active Directory](https://github.com/Sabelo-31/Active-Directory-Home-Lab)
  
 
 
